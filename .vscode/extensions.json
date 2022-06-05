@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "aaron-bond.better-comments",
+    "mkaufman.htmlhint",
+    "christian-kohler.path-intellisense",
+    "mrmlnc.vscode-scss",
+    "stylelint.vscode-stylelint",
+    "syler.sass-indented",
+    "rebornix.project-snippets",
+    "sibiraj-s.vscode-scss-formatter"
+  ]
+}
